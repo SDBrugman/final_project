@@ -1,2 +1,3 @@
 # final_project
-analysis of lyrics
+
+The notebooks will undergo substantial cleaning
